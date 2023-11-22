@@ -9,9 +9,9 @@ class App
          let copyright = "ZV inc."
          let darkmode = false 
          
-         //this.int = 9
-         //this.string = "text"
-         //this.boolean = 1 < 0
+         this.int = 9
+         this.string = "text"
+         this.boolean = 1 < 0
          
          console.log("hello world!");
          console.log("appNaam:" + appNaam);
